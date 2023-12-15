@@ -1,8 +1,8 @@
 
-# Power BI Report - Call Centre Data Analysis
+# Power BI Report - Call Center Data Analysis
 
 ## Overview
-This repository contains the background and design assets for the Power BI report titled "[Your Report Name]." The report was created using Figma, a collaborative design tool, to ensure a visually appealing and user-friendly experience.
+This repository contains the background and design assets for the Power BI report I created - Call Center Data Analysis. The report was created using Figma, a collaborative design tool, to ensure a visually appealing and user-friendly experience.
 
 ## Report Preview
 ![Report Preview](https://www.novypro.com/project/demo-crm-call-center-report-power-bi)
